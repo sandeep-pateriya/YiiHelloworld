@@ -1,0 +1,14 @@
+{
+    "name": "cis/hello-world",
+    "authors": [
+        {
+            "name": "cis"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
