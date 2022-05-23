@@ -1,8 +1,8 @@
 {
-    "name": "cis/hello-world",
+    "name": "tutorialspoint/hello-world",
     "authors": [
         {
-            "name": "cis"
+            "name": "tutorialspoint"
         }
     ],
     "require": {},
